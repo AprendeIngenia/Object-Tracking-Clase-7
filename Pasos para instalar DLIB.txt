@@ -1,0 +1,5 @@
+Pasos para instalar DLIB:
+1.) Instalar Visual Studio C++.
+2.) Reiniciar.
+3.) Instalar CMAKE.
+4.) Instalar DLIB.  
