@@ -6,7 +6,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 7 del curso de visi�
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre que es el seguimiento de objetos y cual puede llegar a ser su uso [video.](https://youtu.be/J-QaeKQHZ7c)
 
 
-![Miniatura](https://user-images.githubusercontent.com/85022752/230189403-6f836b15-30eb-4e6f-9cba-cb3fe9e6d857.jpg)
+![Miniatura YouTube curso SEO 3D morado (7)](https://user-images.githubusercontent.com/85022752/235785287-3fb78c74-ec30-4548-9b3d-4a6e2ee2c4bc.jpg)
 
 
 ### Instalación del entorno:
